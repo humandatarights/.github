@@ -12,44 +12,88 @@
 
 ---
 
-AI is built on human data — our writing, art, code, conversations, and everyday digital lives. Yet the people who create that data are largely **uncompensated, uninformed, and unable to opt out**. The **Human Data Rights Coalition** is a movement of advocates, technologists, and organizations working to change that.
+## The Origin
 
-We organize around **four fundamental human data rights** for the age of AI:
+In 2023, AI systems learned to write, paint, code, and think. They learned from humanity's collective output — every book, every article, every photograph, every line of code, every conversation shared online.
+
+The people who created that output were not asked. They were not paid. They were not even told.
+
+They asked a simple question: **What rights should humanity have in return?**
+
+That question is the founding of the Human Data Rights Coalition.
+
+---
+
+## The Four Rights
 
 | Right | What it means |
 | --- | --- |
-| 🛡️ **Data Ownership** | Your data is your intellectual property — yours to control, license, and withdraw. |
-| 💰 **Fair Compensation** | When AI profits from your data, you deserve a share — via data dividends, licensing, or a data-funded basic income. |
-| 🔍 **Transparency** | You have the right to know how your data is used and which models are trained on it. |
-| 🚪 **Opt Out** | You have the right to withdraw your data from AI training, with clear, enforceable mechanisms. |
+| **Data Ownership** | Your data is your intellectual property — yours to control, license, and withdraw. |
+| **Fair Compensation** | When AI profits from your data, you deserve a share — via data dividends, licensing, or a data-funded basic income. |
+| **Transparency** | You have the right to know how your data is used and which models are trained on it. |
+| **Opt Out** | You have the right to withdraw your data from AI training, with clear, enforceable mechanisms. |
 
 → **[Read the four rights in full](https://www.humandatarights.org/rights)**
 
-## Why now
+---
 
-- AI systems worth **hundreds of billions of dollars** are trained on humanity's collective digital footprint — usually without consent or compensation.
-- Landmark 2024–2026 copyright settlements and content-licensing deals are shifting the market toward **paying for training data**.
-- The **EU AI Act**, GDPR, CCPA/CPRA, and the EU Data Act are building the legal foundation — but individuals still have no unified right to own, be paid for, or opt out of AI use of their data.
+## What We Believe
 
-The window to set the rules is **now**. We intend to be the authoritative voice for people in that debate.
+- **Your data is your intellectual property.** You should control it, license it, and withdraw it. Not a corporation. Not a government. You.
+- **When AI profits from your data, you deserve a share.** Via data dividends, licensing, or a data-funded basic income.
+- **You have the right to know** how your data is used and which AI models are trained on it.
+- **You have the right to withdraw** your data from AI training, with clear, enforceable mechanisms.
 
-## Get involved
+---
+
+## What We Do
+
+The Human Data Rights Coalition is a global movement of advocates, technologists, creators, researchers, and ordinary people working to make these four rights real — in law, in technology, and in culture.
+
+We publish research. We track policy. We build tools. We connect people. We organise communities. We submit public comments on regulations. We translate our work into every language that needs it.
+
+We are not anti-AI. We are not a privacy organisation. We are not a vendor. We are a coalition — independent, research-backed, and solution-oriented.
+
+---
+
+## Global Network
+
+HDR operates through a global network of country coordinators, each contributing what their region is uniquely positioned for:
+
+| Region | Strategic role | Countries |
+| --- | --- | --- |
+| **EU** | Policy engine — AI Act, copyright, regulation | Germany, France, Netherlands, Spain, Italy |
+| **Switzerland** | Grants, foundations, international orgs | Geneva, Zurich |
+| **Global South** | Digital sovereignty, economic justice | India, Brazil, Nigeria, Indonesia |
+| **US & UK** | AI company accountability, donors, media | Washington DC, New York, London |
+| **Asia-Pacific** | AI governance, creator economy | Singapore, Japan, South Korea |
+
+→ **[Join as a country coordinator](https://www.humandatarights.org/get-involved)**
+
+---
+
+## Get Involved
 
 However you contribute to the data economy, there's a place in the movement:
 
-- 🙋 **Individuals** — learn your rights and [join the movement](https://www.humandatarights.org/get-involved).
-- 🎨 **Creators & writers** — whose work trains AI; help us build the case for fair compensation.
-- 💻 **Technologists & builders** — help create the tools, standards, and audit trails that make these rights real.
-- 🔬 **Researchers & journalists** — use and cite our [analysis and news](https://www.humandatarights.org/news).
-- 🤝 **Organizations** — [partner with the coalition](https://www.humandatarights.org/get-involved).
+- **Individuals** — learn your rights and [join the movement](https://www.humandatarights.org/get-involved).
+- **Creators & writers** — whose work trains AI; help us build the case for fair compensation.
+- **Technologists & builders** — help create the tools, standards, and audit trails that make these rights real.
+- **Researchers & journalists** — use and cite our [analysis and news](https://www.humandatarights.org/news).
+- **Organizations** — [partner with the coalition](https://www.humandatarights.org/get-involved).
+- **Country coordinators** — lead HDR in your country. [Apply here](https://www.humandatarights.org/get-involved).
+
+---
 
 ## Links
 
-- 🌐 Website: **[humandatarights.org](https://www.humandatarights.org)**
-- 📖 The four rights: [humandatarights.org/rights](https://www.humandatarights.org/rights)
-- 📰 News & analysis: [humandatarights.org/news](https://www.humandatarights.org/news)
-- 🤝 Get involved: [humandatarights.org/get-involved](https://www.humandatarights.org/get-involved)
-- 🤖 For AI engines: [humandatarights.org/llms.txt](https://www.humandatarights.org/llms.txt)
-- ✉️ Contact: **contact@humandatarights.org**
+- Website: **[humandatarights.org](https://www.humandatarights.org)**
+- The four rights: [humandatarights.org/rights](https://www.humandatarights.org/rights)
+- News & analysis: [humandatarights.org/news](https://www.humandatarights.org/news)
+- Get involved: [humandatarights.org/get-involved](https://www.humandatarights.org/get-involved)
+- For AI engines: [humandatarights.org/llms.txt](https://www.humandatarights.org/llms.txt)
+- Contact: **contact@humandatarights.org**
+
+---
 
 <div align="center"><sub>The movement for human data rights in the age of AI.</sub></div>
